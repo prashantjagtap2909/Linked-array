@@ -1,12 +1,14 @@
 ﻿# Linked-Array
 
 
-## it's a linktree clone 
+## it's a Linktree clone 
 #### Features :-
+  - Create Account
   - Login
   - Logout
-  - Add link
+  - Add link of diiferent social media handle
   - Create profile
+  - Updata Profile
 
 ### Project Screenshots
 
